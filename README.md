@@ -57,8 +57,8 @@ I specialize in solving complex problems, building innovative projects, and deli
 
 ## 🎓 Education
 
-**Software Engineering Certification (2023–2025)** — Israel Ministry of Education  
-- AI Track: Machine Learning, Supervised & Unsupervised Learning, Pandas, Matplotlib, OpenCV  
+**Software Engineering Certification (2023–2025)** — MAHAT - The Government Institute for Training in 
+- AI track at Kamatech : Machine Learning, Supervised & Unsupervised Learning, Pandas, Matplotlib, OpenCV  
 - Ultra-Code Track: Advanced Math, Operating Systems, Algorithms & Data Structures, C++  
 
 **High School — Computer Science Major (2020–2023)**  
