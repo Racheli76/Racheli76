@@ -72,7 +72,7 @@ I specialize in solving complex problems, building innovative projects, and deli
 - Hebrew: Native  
 - English: Advanced  
 
----
+--
 
 ## 📫 Connect with Me
 
