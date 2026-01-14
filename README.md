@@ -36,13 +36,16 @@ I specialize in solving complex problems, building innovative projects, and deli
 - Deepened knowledge in **AI and LLMs**, including **LoRA** techniques for efficient training of large models.  
 - Utilized **GitHub** for version control and **Slack** to facilitate collaborative workflows within an **Agile** methodology.
   
-### **🐿️ Nivo — AI Career Agent & Resume Architect**
-- **The Mission:** Developed an intelligent end-to-end agent designed to bridge the gap between talented candidates and their dream jobs by crafting the **"Perfect Match"** resume.
-- **Smart Adaptation:** Engineered a system that dynamically re-architects CVs to align with specific job descriptions using **GPT-4o**, increasing **ATS (Applicant Tracking System)** compatibility.
-- **High-Performance Stack:** Built a modern, lightning-fast architecture using **FastAPI (Uvicorn)** and **React (Vite)** for seamless user experience.
-- **Production-Ready Features:** Integrated **Structured JSON Analysis**, bilingual support (**Hebrew & English**), and custom **In-Memory Session Management**.
-- **Reliability & Security:** Implemented robust security layers including **Rate Limiting** and achieved stability with a comprehensive **Pytest** suite.
-- [ Repository](https://github.com/Racheli76/nivo-job-agent)
+### **🐿️ Nivo — AI Career Agent**
+**Building the bridge between candidates and their dream jobs.**
+
+* **The Goal:** Transforming resumes into the **"Perfect Match"** using dynamic **GPT-4o** tailoring.
+* **ATS Intelligence:** Engineered to optimize CVs for automated screening systems and keyword matching.
+* **Performance:** High-speed Full-Stack architecture built with **FastAPI** and **React (Vite)**.
+* **Enterprise-Ready:** Features structured JSON analysis, **Bilingual support**, and **Pytest** stability.
+* **Security:** Integrated custom Rate-Limiting and secure Session Management.
+
+[**📂 Explore Repository**](https://github.com/Racheli76/nivo-job-agent)
 
 ### **WebAPI Talent Sharing Platform - Give&Get**
 - Developed a smart platform for matching users with complementary skills  
