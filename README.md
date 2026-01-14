@@ -45,7 +45,7 @@ I specialize in solving complex problems, building innovative projects, and deli
 * **Enterprise-Ready:** Features structured JSON analysis, **Bilingual support**, and **Pytest** stability.
 * **Security:** Integrated custom Rate-Limiting and secure Session Management.
 
-[**📂 Explore Repository**](https://github.com/Racheli76/nivo-job-agent)
+[Explore Repository](https://github.com/Racheli76/nivo-job-agent)
 
 ### **WebAPI Talent Sharing Platform - Give&Get**
 - Developed a smart platform for matching users with complementary skills  
