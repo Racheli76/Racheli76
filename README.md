@@ -43,7 +43,7 @@ I specialize in solving complex problems, building innovative projects, and deli
 * **Performance:** High-speed Full-Stack architecture built with **FastAPI** and **React (Vite)**.
 * **Enterprise-Ready:** Features structured JSON analysis, **Bilingual support**, and **Pytest** stability.
 * **Security:** Integrated custom Rate-Limiting and secure Session Management.
--[Repository](https://github.com/Racheli76/nivo-job-agent)
+- [Repository](https://github.com/Racheli76/nivo-job-agent)
 
 ### **WebAPI Talent Sharing Platform - Give&Get**
 - Developed a smart platform for matching users with complementary skills  
