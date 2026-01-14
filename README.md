@@ -35,7 +35,14 @@ I specialize in solving complex problems, building innovative projects, and deli
 - Processed **diverse datasets**, converted content into vectors, and leveraged **ChromaDB** for efficient vector storage.  
 - Deepened knowledge in **AI and LLMs**, including **LoRA** techniques for efficient training of large models.  
 - Utilized **GitHub** for version control and **Slack** to facilitate collaborative workflows within an **Agile** methodology.
-
+  
+### **🐿️ Nivo — AI Career Agent & Resume Architect**
+- **The Mission:** Developed an intelligent end-to-end agent designed to bridge the gap between talented candidates and their dream jobs by crafting the **"Perfect Match"** resume.
+- **Smart Adaptation:** Engineered a system that dynamically re-architects CVs to align with specific job descriptions using **GPT-4o**, increasing **ATS (Applicant Tracking System)** compatibility.
+- **High-Performance Stack:** Built a modern, lightning-fast architecture using **FastAPI (Uvicorn)** and **React (Vite)** for seamless user experience.
+- **Production-Ready Features:** Integrated **Structured JSON Analysis**, bilingual support (**Hebrew & English**), and custom **In-Memory Session Management**.
+- **Reliability & Security:** Implemented robust security layers including **Rate Limiting** and achieved stability with a comprehensive **Pytest** suite.
+- [ Repository](https://github.com/Racheli76/nivo-job-agent)
 
 ### **WebAPI Talent Sharing Platform - Give&Get**
 - Developed a smart platform for matching users with complementary skills  
