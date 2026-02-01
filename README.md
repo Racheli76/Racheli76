@@ -35,15 +35,6 @@ I specialize in solving complex problems, building innovative projects, and deli
 - Processed **diverse datasets**, converted content into vectors, and leveraged **ChromaDB** for efficient vector storage.  
 - Deepened knowledge in **AI and LLMs**, including **LoRA** techniques for efficient training of large models.  
 - Utilized **GitHub** for version control and **Slack** to facilitate collaborative workflows within an **Agile** methodology.
-  
-### **🐿️ Nivo — AI Career Agent**
-**Building the bridge between candidates and their dream jobs.**
-* **The Goal:** Transforming resumes into the **"Perfect Match"** using dynamic **GPT-4o** tailoring.
-* **ATS Intelligence:** Engineered to optimize CVs for automated screening systems and keyword matching.
-* **Performance:** High-speed Full-Stack architecture built with **FastAPI** and **React (Vite)**.
-* **Enterprise-Ready:** Features structured JSON analysis, **Bilingual support**, and **Pytest** stability.
-* **Security:** Integrated custom Rate-Limiting and secure Session Management.
-- [Repository](https://github.com/Racheli76/nivo-job-agent)
 
 ### **WebAPI Talent Sharing Platform - Give&Get**
 - Developed a smart platform for matching users with complementary skills  
@@ -55,6 +46,15 @@ I specialize in solving complex problems, building innovative projects, and deli
 - Created a professional website for listing confectionery courses  
 - Tech: NodeJS, HTML, CSS, JavaScript, MongoDB  
 - Features user authentication, course interactions, and content filtering
+
+### **🐿️ Nivo — AI Career Agent**
+**Building the bridge between candidates and their dream jobs.**
+* **The Goal:** Transforming resumes into the **"Perfect Match"** using dynamic **GPT-4o** tailoring.
+* **ATS Intelligence:** Engineered to optimize CVs for automated screening systems and keyword matching.
+* **Performance:** High-speed Full-Stack architecture built with **FastAPI** and **React (Vite)**.
+* **Enterprise-Ready:** Features structured JSON analysis, **Bilingual support**, and **Pytest** stability.
+* **Security:** Integrated custom Rate-Limiting and secure Session Management.
+- [Repository](https://github.com/Racheli76/nivo-job-agent)
 
 ### **Escape Room Game** — Interactive Puzzle Game
 - Developed an interactive escape room with dynamic puzzles and stages  
